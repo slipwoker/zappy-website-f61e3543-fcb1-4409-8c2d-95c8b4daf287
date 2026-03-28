@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Own a piece of sacred ground where Jesus walked. Rocks of Galilee crafts authentic Holy Land gifts from real Sea of Galilee stones — order yours today.
+
+### Pieces
+https://example.com/pieces
+Explore sculpted angel wings and holy hands cradling real Galilee stones. Unique baptism gifts from Israel, handmade near Bethlehem — shop our full collection now.
+
+### Story
+https://example.com/story
+Discover how Israel-based artisans near Bethlehem gather sacred stones and pour devotion into every piece — a mission to bring the Holy Land to believers worldwide.
+
+### Contact
+https://example.com/contact
+Have a question or want to gift someone a sacred piece of Israel? Reach out to Rocks of Galilee and let us help you find the perfect Religious home decor Christian treasure.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
