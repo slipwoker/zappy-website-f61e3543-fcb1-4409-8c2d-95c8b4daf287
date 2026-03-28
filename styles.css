@@ -6677,6 +6677,19 @@ body.accessibility-widget-visible ._access-menu {
   }
 }
 
+.home-contact-section .contact-phone,
+.home-contact-section .contact-address,
+.home-contact-section .contact-email,
+.home-contact-section [class*="phone"],
+.home-contact-section [class*="address"],
+.home-contact-section [class*="email"],
+.home-contact-section a[href^="mailto"],
+.home-contact-section a[href^="tel"],
+.home-contact-section li:has(a[href^="mailto"]),
+.home-contact-section li:has(a[href^="tel"]) {
+  display: none !important;
+}
+
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */
 /* For RTL sites: hamburger on RIGHT, phone on LEFT (mirror of LTR layout) */
