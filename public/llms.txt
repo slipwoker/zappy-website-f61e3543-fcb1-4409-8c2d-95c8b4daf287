@@ -1,47 +1,62 @@
-# Business — Generative Engine Optimization Map
+# Rocks of Galilee — Generative Engine Optimization Map
+
+> Rocks of Galilee is a deeply spiritual and faith-driven brand created by Israel-based artisans living near Bethlehem. The brand gathers authentic stones from the shores of the Sea of Galilee — one of Christianity's most sacred sites — and incorporates them into handcrafted home decor pieces. The two signature pieces are life-size sculpted hands holding the stones crowned with a cross, and delicate angel wings cradling the same sacred stones. The brand's mission is deeply emotional and compassionate: to bring the Holy Land to those who cannot travel there, offering a tangible, sacred connection to where Jesus walked, taught, and performed miracles. The atmosphere is reverent, warm, and deeply personal — bridging geography and faith through simple, meaningful objects.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://rocks-of-galilee.zappy5.app
 Own a piece of sacred ground where Jesus walked. Rocks of Galilee crafts authentic Holy Land gifts from real Sea of Galilee stones — order yours today.
 
 ### Pieces
-https://example.com/pieces
+https://rocks-of-galilee.zappy5.app/pieces
 Explore sculpted angel wings and holy hands cradling real Galilee stones. Unique baptism gifts from Israel, handmade near Bethlehem — shop our full collection now.
 
 ### Story
-https://example.com/story
+https://rocks-of-galilee.zappy5.app/story
 Discover how Israel-based artisans near Bethlehem gather sacred stones and pour devotion into every piece — a mission to bring the Holy Land to believers worldwide.
 
 ### Contact
-https://example.com/contact
+https://rocks-of-galilee.zappy5.app/contact
 Have a question or want to gift someone a sacred piece of Israel? Reach out to Rocks of Galilee and let us help you find the perfect Religious home decor Christian treasure.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://rocks-of-galilee.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://rocks-of-galilee.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://rocks-of-galilee.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Rocks of Galilee
+Rocks of Galilee is a deeply spiritual and faith-driven brand created by Israel-based artisans living near Bethlehem. The brand gathers authentic stones from the shores of the Sea of Galilee — one of Christianity's most sacred sites — and incorporates them into handcrafted home decor pieces. The two signature pieces are life-size sculpted hands holding the stones crowned with a cross, and delicate angel wings cradling the same sacred stones. The brand's mission is deeply emotional and compassionate: to bring the Holy Land to those who cannot travel there, offering a tangible, sacred connection to where Jesus walked, taught, and performed miracles. The atmosphere is reverent, warm, and deeply personal — bridging geography and faith through simple, meaningful objects.
+
+## Services/Products
+- Life-size sculpted hands holding authentic Sea of Galilee stones with a cross
+- Angel wings sculpture holding sacred stones from the Sea of Galilee
+- Meaningful spiritual gifts for baptisms, Easter, Christmas, and personal devotion
+
+## Target Audience
+Christians worldwide who long to connect with the Holy Land, including elderly believers, families, and young Christians who cannot travel to Israel
+
+## Industry
+Christian religious gifts and home decor
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://rocks-of-galilee.zappy5.app/sitemap.xml
+- **Robots.txt**: https://rocks-of-galilee.zappy5.app/robots.txt
