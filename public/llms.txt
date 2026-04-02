@@ -1,6 +1,4 @@
-# Rocks of Galilee — Generative Engine Optimization Map
-
-> Rocks of Galilee is a deeply spiritual and faith-driven brand created by Israel-based artisans living near Bethlehem. The brand gathers authentic stones from the shores of the Sea of Galilee — one of Christianity's most sacred sites — and incorporates them into handcrafted home decor pieces. The two signature pieces are life-size sculpted hands holding the stones crowned with a cross, and delicate angel wings cradling the same sacred stones. The brand's mission is deeply emotional and compassionate: to bring the Holy Land to those who cannot travel there, offering a tangible, sacred connection to where Jesus walked, taught, and performed miracles. The atmosphere is reverent, warm, and deeply personal — bridging geography and faith through simple, meaningful objects.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,20 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Rocks of Galilee
-Rocks of Galilee is a deeply spiritual and faith-driven brand created by Israel-based artisans living near Bethlehem. The brand gathers authentic stones from the shores of the Sea of Galilee — one of Christianity's most sacred sites — and incorporates them into handcrafted home decor pieces. The two signature pieces are life-size sculpted hands holding the stones crowned with a cross, and delicate angel wings cradling the same sacred stones. The brand's mission is deeply emotional and compassionate: to bring the Holy Land to those who cannot travel there, offering a tangible, sacred connection to where Jesus walked, taught, and performed miracles. The atmosphere is reverent, warm, and deeply personal — bridging geography and faith through simple, meaningful objects.
-
-## Services/Products
-- Life-size sculpted hands holding authentic Sea of Galilee stones with a cross
-- Angel wings sculpture holding sacred stones from the Sea of Galilee
-- Meaningful spiritual gifts for baptisms, Easter, Christmas, and personal devotion
-
-## Target Audience
-Christians worldwide who long to connect with the Holy Land, including elderly believers, families, and young Christians who cannot travel to Israel
-
-## Industry
-Christian religious gifts and home decor
-
+## About Business
 ---
 
 # Additional Resources
